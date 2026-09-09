@@ -3,7 +3,3 @@ Goodbye
 What?
 Yes
 No
-
-
-
-
