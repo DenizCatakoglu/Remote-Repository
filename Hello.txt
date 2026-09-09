@@ -2,6 +2,3 @@
 Hello
 Good
 My name is Deniz
-
-
-
